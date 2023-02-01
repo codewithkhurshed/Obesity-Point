@@ -37,7 +37,9 @@ based on three layered LSTM in google colab.
 <img src="https://user-images.githubusercontent.com/115551112/216059557-07d6354a-a0c7-4616-b76c-4bebdd3e1a65.png" width="200" height="400"> <img src="https://user-images.githubusercontent.com/115551112/216059607-c2a78dfe-e534-44d6-a3e7-8c5a174d23e6.png" width="200" height="400"> <img src="https://user-images.githubusercontent.com/115551112/216059649-c0f19964-5e37-4d0a-a057-f5a6387c7f8d.png" width="200" height="400">
 
 # Proposed Solution
-![image](https://user-images.githubusercontent.com/115551112/216064238-a83ab7ad-fb36-4b1f-9a2d-089a0cad6f08.png)
+![Proposed Solution Diagram1 (XML) (1)](https://user-images.githubusercontent.com/115551112/216069785-2e39b283-71f5-4f57-bc9a-55533ef2c740.jpg)
+
+
 
 The methodology of this paper is briefly described in this chapter of the report. There must be an algorithm to track Human Activity Recognition with six classes. The classes are sitting, standing, walking, jogging, upstairs, and downstairs. Data has been collected by an accelerometer sensor in the left pocket and right pocket. We have used three layered LSTM (Long Short-Term Memory) to predict the possible outcome of human Activity among six classes. The workflow of our proposed solution is divided into three parts: 
 (1) Dataset Formation. 
