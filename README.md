@@ -1,4 +1,4 @@
-# Obesity-Point
+# Obesity-Point [This work was presented at 26th ICCIT 2023 Conference, we will update paper link and source code in few days]
 We present the design and evaluation of culturally <b> Obesity Risk Prediction based on Human Activity Recognition</b> , designed as a tool to help people predict their possible risk of obesity from our solution. 
 In this thesis, we present the design and evaluation of culturally Obesity Risk Prediction
 based on Human Activity Recognition, designed as a tool to help people predict their
