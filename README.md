@@ -8,8 +8,8 @@ create our proposed deep learning model, we have developed a deep learning techn
 based on LSTM in google colab.
 
 ## Developer Info:
-1. Diganta Chowdhury. CSE, EDU. Email: digantachowdhury074@gmail.com.
-2. Khorshed Alam. CSE, EDU. Email: mohdkhurshed120@gmail.com.
+1. Khorshed Alam. CSE, EDU. Email: mohdkhurshed120@gmail.com.
+2. Diganta Chowdhury. CSE, EDU. Email: digantachowdhury074@gmail.com.
 3. Promila Hoque. Lecturer, EDU. Email: promila@eastdelta.edu.bd
 
 
